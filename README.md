@@ -54,6 +54,7 @@ Depois abre o browser em http://localhost:5173 (ou porta definida).
 Podes editar os serviços diretamente no array services dentro de
 src/pages/HomePage.tsx:
 
+```js
 const services = [
   {
     id: "interior",
@@ -64,6 +65,7 @@ const services = [
   },
   ...
 ];
+```
 
 Imagens ficam em /public/108Customs/.
 
