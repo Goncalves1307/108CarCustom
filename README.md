@@ -34,15 +34,17 @@ Desenvolvido em **React + TailwindCSS**, com animações suaves e estrutura otim
 ```bash
 git clone https://github.com/Goncalves1307/108CarCustom.git
 cd 108customs
+```
 
 2️⃣ Instala as dependências
-
+```bash
 npm install
+```
 
 3️⃣ Inicia o servidor de desenvolvimento
-
+```bash
 npm run dev
-
+```
 Depois abre o browser em http://localhost:5173 (ou porta definida).
 
 ⸻
